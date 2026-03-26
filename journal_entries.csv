@@ -1,0 +1,402 @@
+Id,DocNumber,TxnDate,Currency,PrivateNote,TotalAmt,LineId,Description,Amount,PostingType,AccountId,AccountName,DepartmentId,DepartmentName
+9134,2698,2026-01-08,CAD,@work - City of Saskatoon 2025 Campaign - 2026-01-08 - SCRM Env 12186,0,0,@work - City of Saskatoon 2025 Campaign - 2026-01-08 - SCRM Env 12186,2480.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+9134,2698,2026-01-08,CAD,@work - City of Saskatoon 2025 Campaign - 2026-01-08 - SCRM Env 12186,0,1,@work - City of Saskatoon 2025 Campaign - 2026-01-08 - SCRM Env 12186,36229.44,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+9134,2698,2026-01-08,CAD,@work - City of Saskatoon 2025 Campaign - 2026-01-08 - SCRM Env 12186,0,2,@work - City of Saskatoon 2025 Campaign - 2026-01-08 - SCRM Env 12186,35284.4,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+9134,2698,2026-01-08,CAD,@work - City of Saskatoon 2025 Campaign - 2026-01-08 - SCRM Env 12186,0,3,@work - City of Saskatoon 2025 Campaign - 2026-01-08 - SCRM Env 12186,2480.0,Credit,132,Contributions and pledges:Campaign Cash,1,General operating fund
+9134,2698,2026-01-08,CAD,@work - City of Saskatoon 2025 Campaign - 2026-01-08 - SCRM Env 12186,0,4,@work - City of Saskatoon 2025 Campaign - 2026-01-08 - SCRM Env 12186,945.04,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+9133,2697,2026-03-25,CAD,@work - Affinity Credit Union 2025 Campaign - 2026-01-08 - SCRM Env 12167,0,0,@work - Affinity Credit Union 2025 Campaign - 2026-01-08 - SCRM Env 12167,175.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+9133,2697,2026-03-25,CAD,@work - Affinity Credit Union 2025 Campaign - 2026-01-08 - SCRM Env 12167,0,1,@work - Affinity Credit Union 2025 Campaign - 2026-01-08 - SCRM Env 12167,4915.04,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+9133,2697,2026-03-25,CAD,@work - Affinity Credit Union 2025 Campaign - 2026-01-08 - SCRM Env 12167,0,2,@work - Affinity Credit Union 2025 Campaign - 2026-01-08 - SCRM Env 12167,4915.04,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+9133,2697,2026-03-25,CAD,@work - Affinity Credit Union 2025 Campaign - 2026-01-08 - SCRM Env 12167,0,3,@work - Affinity Credit Union 2025 Campaign - 2026-01-08 - SCRM Env 12167,175.0,Credit,132,Contributions and pledges:Campaign Cash,1,General operating fund
+9131,2696,2026-01-07,CAD,@work - UWSA 2025 Campaign - 2026-01-07 - SCRM Env 12124,0,0,@work - UWSA 2025 Campaign - 2026-01-07 - SCRM Env 12124,16145.28,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+9131,2696,2026-01-07,CAD,@work - UWSA 2025 Campaign - 2026-01-07 - SCRM Env 12124,0,1,@work - UWSA 2025 Campaign - 2026-01-07 - SCRM Env 12124,16145.28,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+7554,2609,2025-09-30,CAD,Aug to Sept 2025 IRCC Claim Period 2 - Record IRCC Deferred Revenue as earned per reporting to IRCC,0,0,Aug to Sept 2025 IRCC Claim Period 2 - Record IRCC Deferred Revenue as earned per reporting to IRCC,19184.0,Credit,1150040014,Other income:IRCC Government Funding,,
+7554,2609,2025-09-30,CAD,Aug to Sept 2025 IRCC Claim Period 2 - Record IRCC Deferred Revenue as earned per reporting to IRCC,0,1,Aug to Sept 2025 IRCC Claim Period 2 - Record IRCC Deferred Revenue as earned per reporting to IRCC,19184.0,Debit,124,Deferred revenue:Deferred Revenue - general,,
+7553,2608,2025-07-31,CAD,April to July 2025 IRCC Claim Period 1 - Record IRCC Deferred Revenue as earned per reporting to IRCC,0,0,April to July 2025 IRCC Claim Period 1 - Record IRCC Deferred Revenue as earned per reporting to IRCC,21862.0,Credit,1150040014,Other income:IRCC Government Funding,,
+7553,2608,2025-07-31,CAD,April to July 2025 IRCC Claim Period 1 - Record IRCC Deferred Revenue as earned per reporting to IRCC,0,1,April to July 2025 IRCC Claim Period 1 - Record IRCC Deferred Revenue as earned per reporting to IRCC,21862.0,Debit,124,Deferred revenue:Deferred Revenue - general,,
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,0,"February 28, 2026 Payroll",9677.75,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,1,"February 28, 2026 Payroll",11986.97,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,2,"February 28, 2026 Payroll",14978.54,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,3,"February 28, 2026 Payroll",3376.66,Debit,209,Operations:Salaries and benefits:Salaries,22,IRCC Project Fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,4,"February 28, 2026 Payroll",532.7,Debit,209,Operations:Salaries and benefits:Salaries,22,IRCC Project Fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,5,"February 28, 2026 Payroll",914.24,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,6,"February 28, 2026 Payroll",1060.61,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,7,"February 28, 2026 Payroll",2018.18,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,8,"February 28, 2026 Payroll",257.7,Debit,210,Operations:Salaries and benefits:Benefits,22,IRCC Project Fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,9,"February 28, 2026 Payroll",58.43,Debit,210,Operations:Salaries and benefits:Benefits,22,IRCC Project Fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,10,"February 28, 2026 Payroll",14634.34,Credit,114,Accrued liabilities:Accounts Payable - Other,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,11,"February 28, 2026 Payroll",1345.98,Credit,101,Other current receivables:Accounts Receivable - Other,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,12,"February 28, 2026 Payroll",25669.14,Credit,208,Operations:Salaries and benefits:Payroll Clearing,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,13,"February 28, 2026 Payroll",784.22,Credit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,14,"February 28, 2026 Payroll",57.5,Credit,118,Accrued liabilities:Cash - Staff Fund,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,15,"February 28, 2026 Payroll - A/R-Priscila Cabildo",117.66,Credit,101,Other current receivables:Accounts Receivable - Other,1,General operating fund
+9008,2686,2026-02-28,CAD,"February 28, 2026 Payroll",0,16,"February 28, 2026 Payroll",2252.94,Credit,114,Accrued liabilities:Accounts Payable - Other,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,0,"Payroll - February 13, 2026",10876.7,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,1,"Payroll - February 13, 2026",12130.32,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,2,"Payroll - February 13, 2026",14978.54,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,3,"Payroll - February 13, 2026",3443.27,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,4,"Payroll - February 13, 2026",599.31,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,5,"Payroll - February 13, 2026",1008.39,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,6,"Payroll - February 13, 2026",1071.27,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,7,"Payroll - February 13, 2026",2017.89,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,8,"Payroll - February 13, 2026",262.92,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,9,"Payroll - February 13, 2026",63.65,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,10,"Payroll - February 13, 2026",15153.22,Credit,114,Accrued liabilities:Accounts Payable - Other,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,11,"Payroll - February 13, 2026",1345.98,Credit,101,Other current receivables:Accounts Receivable - Other,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,12,"Payroll - February 13, 2026",26553.15,Credit,208,Operations:Salaries and benefits:Payroll Clearing,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,13,"Payroll - February 13, 2026",305.25,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,14,"Payroll - February 13, 2026",784.22,Credit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,15,"Payroll - February 13, 2026",57.5,Credit,118,Accrued liabilities:Cash - Staff Fund,1,General operating fund
+8867,2679,2026-02-13,CAD,"Payroll - February 13, 2026",0,16,"Payroll - February 13, 2026",2252.94,Credit,114,Accrued liabilities:Accounts Payable - Other,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,0,"Payroll January 31, 2026",10682.15,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,1,"Payroll January 31, 2026",12230.04,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,2,"Payroll January 31, 2026",14978.54,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,3,"Payroll January 31, 2026",3432.46,Debit,209,Operations:Salaries and benefits:Salaries,22,IRCC Project Fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,4,"Payroll January 31, 2026",588.5,Debit,209,Operations:Salaries and benefits:Salaries,22,IRCC Project Fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,5,"Payroll January 31, 2026",993.1,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,6,"Payroll January 31, 2026",1079.47,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,7,"Payroll January 31, 2026",2017.89,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,8,"Payroll January 31, 2026",262.08,Debit,210,Operations:Salaries and benefits:Benefits,22,IRCC Project Fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,9,"Payroll January 31, 2026",62.81,Debit,210,Operations:Salaries and benefits:Benefits,22,IRCC Project Fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,10,"Payroll January 31, 2026",15109.24,Credit,114,Accrued liabilities:Accounts Payable - Other,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,11,"Payroll January 31, 2026",1345.98,Credit,101,Other current receivables:Accounts Receivable - Other,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,12,"Payroll January 31, 2026",26602.16,Credit,208,Operations:Salaries and benefits:Payroll Clearing,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,13,"Payroll January 31, 2026",175.0,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,14,"Payroll January 31, 2026",784.22,Credit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,15,"Payroll January 31, 2026",57.5,Credit,118,Accrued liabilities:Cash - Staff Fund,1,General operating fund
+8612,2648,2026-01-15,CAD,"Payroll January 31, 2026",0,16,"Payroll January 31, 2026",2252.94,Credit,114,Accrued liabilities:Accounts Payable - Other,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,0,"January 15, 2026 Payroll",10833.89,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,1,"January 15, 2026 Payroll",12858.27,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,2,"January 15, 2026 Payroll",14978.54,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,3,"January 15, 2026 Payroll",3440.89,Debit,209,Operations:Salaries and benefits:Salaries,22,IRCC Project Fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,4,"January 15, 2026 Payroll",596.93,Debit,209,Operations:Salaries and benefits:Salaries,22,IRCC Project Fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,5,"January 15, 2026 Payroll",1005.03,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,6,"January 15, 2026 Payroll",1131.19,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,7,"January 15, 2026 Payroll",1733.41,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,8,"January 15, 2026 Payroll",262.74,Debit,210,Operations:Salaries and benefits:Benefits,22,IRCC Project Fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,9,"January 15, 2026 Payroll",63.47,Debit,210,Operations:Salaries and benefits:Benefits,22,IRCC Project Fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,10,"January 15, 2026 Payroll",15379.33,Credit,114,Accrued liabilities:Accounts Payable - Other,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,11,"January 15, 2026 Payroll",1345.98,Credit,101,Other current receivables:Accounts Receivable - Other,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,12,"January 15, 2026 Payroll",27611.91,Credit,208,Operations:Salaries and benefits:Payroll Clearing,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,13,"January 15, 2026 Payroll",784.22,Credit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,14,"January 15, 2026 Payroll",57.5,Credit,118,Accrued liabilities:Cash - Staff Fund,1,General operating fund
+8611,2647,2026-01-15,CAD,"January 15, 2026 Payroll",0,15,"January 15, 2026 Payroll",1725.42,Credit,114,Accrued liabilities:Accounts Payable - Other,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,0,"Payroll - December 31, 2025",11352.68,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,1,"Payroll - December 31, 2025",12418.51,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,2,"Payroll - December 31, 2025",14978.54,Debit,209,Operations:Salaries and benefits:Salaries,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,3,"Payroll - December 31, 2025",3469.72,Debit,209,Operations:Salaries and benefits:Salaries,22,IRCC Project Fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,4,"Payroll - December 31, 2025",625.76,Debit,209,Operations:Salaries and benefits:Salaries,22,IRCC Project Fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,5,"Payroll - December 31, 2025",531.62,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,6,"Payroll - December 31, 2025",675.97,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,7,"Payroll - December 31, 2025",787.23,Debit,210,Operations:Salaries and benefits:Benefits,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,8,"Payroll - December 31, 2025",265.73,Debit,210,Operations:Salaries and benefits:Benefits,22,IRCC Project Fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,9,"Payroll - December 31, 2025",26.22,Debit,210,Operations:Salaries and benefits:Benefits,22,IRCC Project Fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,10,"Payroll - December 31, 2025",11873.14,Credit,114,Accrued liabilities:Accounts Payable - Other,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,11,"Payroll - December 31, 2025",1345.98,Credit,101,Other current receivables:Accounts Receivable - Other,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,12,"Payroll - December 31, 2025",30129.94,Credit,208,Operations:Salaries and benefits:Payroll Clearing,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,13,"Payroll - December 31, 2025",57.5,Credit,118,Accrued liabilities:Cash - Staff Fund,1,General operating fund
+8408,2634,2025-12-31,CAD,"Payroll - December 31, 2025",0,14,"Payroll - December 31, 2025",1725.42,Credit,114,Accrued liabilities:Accounts Payable - Other,1,General operating fund
+9109,,2026-02-14,CAD,Receipt url: https://api.floatfinancial.com/api/v1/receipts/download/?receipt_id=a808358c-a702-4216-87b4-8c806c13ad9f&token=-tD864bqzP0cWyvmPobbwkFv3M5fP-SwsS5EygXTgNI,0,7,Refund on Timothy Dauvin - Incidentals for Work card from D'Lish by Tish Cafe,27.75,Debit,1150040000,Cash and cash equivalents:Float Financial,,
+9109,,2026-02-14,CAD,Receipt url: https://api.floatfinancial.com/api/v1/receipts/download/?receipt_id=a808358c-a702-4216-87b4-8c806c13ad9f&token=-tD864bqzP0cWyvmPobbwkFv3M5fP-SwsS5EygXTgNI,0,8,Refunded for missed items from take out order.,25.0,Credit,1150040008,Operations:Meetings and travel:Meals and Entertainment - Promotion,,
+8409,2635,2025-12-31,CAD,Dep 8648 2025-12-31 SCRM Env 12228,0,0,Dep 8648 2025-12-31 SCRM Env 12228,14818.92,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8409,2635,2025-12-31,CAD,Dep 8648 2025-12-31 SCRM Env 12228,0,1,Dep 8648 2025-12-31 SCRM Env 12228,14818.92,Credit,130,Funds transferred from other United Way organizations:Funds Transferred from Other UWs,1,General operating fund
+7928,2617,2025-12-08,CAD,"City of Saskatoon 50/50 donations to December 3, 2025",0,0,"City of Saskatoon 50/50 donations to December 3, 2025",2815.89,Debit,86,Cash and cash equivalents:TD Canada Trust - Lottery Account,1,General operating fund
+7928,2617,2025-12-08,CAD,"City of Saskatoon 50/50 donations to December 3, 2025",0,1,"City of Saskatoon 50/50 donations to December 3, 2025",2930.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7928,2617,2025-12-08,CAD,"City of Saskatoon 50/50 donations to December 3, 2025",0,2,"City of Saskatoon 50/50 donations to December 3, 2025",114.11,Debit,272,"Operations:Promotion, public relations and special events:50/50 Lotto",1,General operating fund
+7926,2616,2025-12-05,CAD,"Nutrien-Allan 50/50 donations to December 3, 2025",0,0,"Nutrien-Allan 50/50 donations to December 3, 2025",3235.37,Debit,86,Cash and cash equivalents:TD Canada Trust - Lottery Account,1,General operating fund
+7926,2616,2025-12-05,CAD,"Nutrien-Allan 50/50 donations to December 3, 2025",0,1,"Nutrien-Allan 50/50 donations to December 3, 2025",3350.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7926,2616,2025-12-05,CAD,"Nutrien-Allan 50/50 donations to December 3, 2025",0,2,"Nutrien-Allan 50/50 donations to December 3, 2025",114.63,Debit,272,"Operations:Promotion, public relations and special events:50/50 Lotto",1,General operating fund
+7924,2615,2025-12-01,CAD,"Nutrien-Cory 50/50 donations to November 30, 2025",0,0,"Nutrien-Cory 50/50 donations to November 30, 2025",2289.74,Debit,86,Cash and cash equivalents:TD Canada Trust - Lottery Account,1,General operating fund
+7924,2615,2025-12-01,CAD,"Nutrien-Cory 50/50 donations to November 30, 2025",0,1,"Nutrien-Cory 50/50 donations to November 30, 2025",2370.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7924,2615,2025-12-01,CAD,"Nutrien-Cory 50/50 donations to November 30, 2025",0,2,"Nutrien-Cory 50/50 donations to November 30, 2025",80.26,Debit,272,"Operations:Promotion, public relations and special events:50/50 Lotto",1,General operating fund
+7922,2614,2025-12-01,CAD,"FCL 50/50 donations to November 26, 2025",0,0,"FCL 50/50 donations to November 26, 2025",604.83,Debit,86,Cash and cash equivalents:TD Canada Trust - Lottery Account,1,General operating fund
+7922,2614,2025-12-01,CAD,"FCL 50/50 donations to November 26, 2025",0,1,"FCL 50/50 donations to November 26, 2025",630.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7922,2614,2025-12-01,CAD,"FCL 50/50 donations to November 26, 2025",0,2,"FCL 50/50 donations to November 26, 2025",25.17,Debit,272,"Operations:Promotion, public relations and special events:50/50 Lotto",1,General operating fund
+7920,2613,2025-12-01,CAD,"Nutrien-Vanscoy 50/50 donations to November 27, 2025",0,0,"Nutrien-Vanscoy 50/50 donations to November 27, 2025",1252.7,Debit,86,Cash and cash equivalents:TD Canada Trust - Lottery Account,1,General operating fund
+7920,2613,2025-12-01,CAD,"Nutrien-Vanscoy 50/50 donations to November 27, 2025",0,1,"Nutrien-Vanscoy 50/50 donations to November 27, 2025",1300.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7920,2613,2025-12-01,CAD,"Nutrien-Vanscoy 50/50 donations to November 27, 2025",0,2,"Nutrien-Vanscoy 50/50 donations to November 27, 2025",47.3,Debit,272,"Operations:Promotion, public relations and special events:50/50 Lotto",1,General operating fund
+7520,2605,2025-11-07,CAD,"UWSA 50/50 donations to November 7, 2025",0,0,"UWSA 50/50 donations to November 7, 2025",20.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+7520,2605,2025-11-07,CAD,"UWSA 50/50 donations to November 7, 2025",0,1,"UWSA 50/50 donations to November 7, 2025",20.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7514,2600,2025-10-22,CAD,"PSPC UWSA 50/50 donations to October 22, 2025",0,0,"PSPC UWSA 50/50 donations to October 22, 2025",164.58,Debit,86,Cash and cash equivalents:TD Canada Trust - Lottery Account,1,General operating fund
+7514,2600,2025-10-22,CAD,"PSPC UWSA 50/50 donations to October 22, 2025",0,1,"PSPC UWSA 50/50 donations to October 22, 2025",172.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7514,2600,2025-10-22,CAD,"PSPC UWSA 50/50 donations to October 22, 2025",0,2,"PSPC UWSA 50/50 donations to October 22, 2025",7.42,Debit,272,"Operations:Promotion, public relations and special events:50/50 Lotto",1,General operating fund
+7512,2598,2025-10-24,CAD,"UWSA 50/50 donations to October 24, 2025",0,0,"UWSA 50/50 donations to October 24, 2025",30.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+7512,2598,2025-10-24,CAD,"UWSA 50/50 donations to October 24, 2025",0,1,"UWSA 50/50 donations to October 24, 2025",30.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7503,2595,2025-10-10,CAD,"UWSA 50/50 donations to October 10, 2025",0,0,"UWSA 50/50 donations to October 10, 2025",60.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+7503,2595,2025-10-10,CAD,"UWSA 50/50 donations to October 10, 2025",0,1,"UWSA 50/50 donations to October 10, 2025",60.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7501,2591,2025-09-26,CAD,"UWSA 50/50 donations to September 26, 2025",0,0,"UWSA 50/50 donations to September 26, 2025",270.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+7501,2591,2025-09-26,CAD,"UWSA 50/50 donations to September 26, 2025",0,1,"UWSA 50/50 donations to September 26, 2025",270.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7499,2583,2025-09-15,CAD,"UWSA 50/50 donations to September 15, 2025",0,0,"UWSA 50/50 donations to September 15, 2025",35.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+7499,2583,2025-09-15,CAD,"UWSA 50/50 donations to September 15, 2025",0,1,"UWSA 50/50 donations to September 15, 2025",35.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7497,2582,2025-08-29,CAD,"UWSA 50/50 donations to August 29, 2025",0,0,"UWSA 50/50 donations to August 29, 2025",235.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+7497,2582,2025-08-29,CAD,"UWSA 50/50 donations to August 29, 2025",0,1,"UWSA 50/50 donations to August 29, 2025",235.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+8917,2685,2026-02-27,CAD,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,0,0,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,24451.24,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8917,2685,2026-02-27,CAD,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,0,1,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,17445.96,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8917,2685,2026-02-27,CAD,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,0,2,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,1975.1,Credit,130,Funds transferred from other United Way organizations:Funds Transferred from Other UWs,1,General operating fund
+8917,2685,2026-02-27,CAD,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,0,3,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,5030.18,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+8917,2685,2026-02-27,CAD,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,0,4,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,30.0,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8917,2685,2026-02-27,CAD,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,0,5,Dep 8677 - 2026-02-27 SaskPower SCRM Env#13434,30.0,Debit,161,Community Investment:Donor directed giving - net:Donor Directed Giving,1,General operating fund
+8916,2684,2026-02-27,CAD,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,0,0,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,16189.74,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8916,2684,2026-02-27,CAD,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,0,1,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,12103.98,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8916,2684,2026-02-27,CAD,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,0,2,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,1150.5,Credit,130,Funds transferred from other United Way organizations:Funds Transferred from Other UWs,1,General operating fund
+8916,2684,2026-02-27,CAD,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,0,3,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,2935.26,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+8916,2684,2026-02-27,CAD,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,0,4,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,210.0,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8916,2684,2026-02-27,CAD,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,0,5,Dep 8676 2026-02-27 Govt of SK SCRM Env# 13433,210.0,Debit,161,Community Investment:Donor directed giving - net:Donor Directed Giving,1,General operating fund
+8911,2682,2026-02-26,CAD,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,0,0,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,84929.92,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8911,2682,2026-02-26,CAD,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,0,1,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,2630.94,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8911,2682,2026-02-26,CAD,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,0,2,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,80698.94,Credit,130,Funds transferred from other United Way organizations:Funds Transferred from Other UWs,1,General operating fund
+8911,2682,2026-02-26,CAD,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,0,3,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,1600.04,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+8911,2682,2026-02-26,CAD,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,0,4,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,2500.0,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8911,2682,2026-02-26,CAD,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,0,5,Dep 8673 2026-02-26 - SCRM Env#13414 MLT Aikins LLP,2500.0,Debit,161,Community Investment:Donor directed giving - net:Donor Directed Giving,1,General operating fund
+8816,2674,2026-02-10,CAD,Dep 8666 - 2026-02-10 - SCRM Env# 12938,0,0,Dep 8666 - 2026-02-10 - SCRM Env# 12938,42308.42,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8816,2674,2026-02-10,CAD,Dep 8666 - 2026-02-10 - SCRM Env# 12938,0,1,Dep 8666 - 2026-02-10 - SCRM Env# 12938,42308.42,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8816,2674,2026-02-10,CAD,Dep 8666 - 2026-02-10 - SCRM Env# 12938,0,2,Dep 8666 - 2026-02-10 - SCRM Env# 12938,312.0,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8816,2674,2026-02-10,CAD,Dep 8666 - 2026-02-10 - SCRM Env# 12938,0,3,Dep 8666 - 2026-02-10 - SCRM Env# 12938,312.0,Debit,161,Community Investment:Donor directed giving - net:Donor Directed Giving,1,General operating fund
+8726,2651,2026-01-21,CAD,Dep 8659 - 2026-01-21 - SCRM Env#12445 GCWCC,0,0,Dep 8659 - 2026-01-21 - SCRM Env#12445 GCWCC,62321.64,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8726,2651,2026-01-21,CAD,Dep 8659 - 2026-01-21 - SCRM Env#12445 GCWCC,0,1,Dep 8659 - 2026-01-21 - SCRM Env#12445 GCWCC,60095.27,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8726,2651,2026-01-21,CAD,Dep 8659 - 2026-01-21 - SCRM Env#12445 GCWCC,0,2,Dep 8659 - 2026-01-21 - SCRM Env#12445 GCWCC,79283.34,Credit,132,Contributions and pledges:Campaign Cash,1,General operating fund
+8726,2651,2026-01-21,CAD,Dep 8659 - 2026-01-21 - SCRM Env#12445 GCWCC,0,3,Dep 8659 - 2026-01-21 - SCRM Env#12445 GCWCC,2226.37,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+8726,2651,2026-01-21,CAD,Dep 8659 - 2026-01-21 - SCRM Env#12445 GCWCC,0,4,Dep 8659 - 2026-01-21 - SCRM Env#12445 GCWCC,79283.34,Debit,161,Community Investment:Donor directed giving - net:Donor Directed Giving,1,General operating fund
+8534,2646,2026-01-19,CAD,Dep 8656 - 2026-01-19 - Federal Retirees 2025 campaign - SCRM env#12379,0,0,Dep 8656 - 2026-01-19 - Federal Retirees 2025 campaign - SCRM env#12379,17930.64,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8534,2646,2026-01-19,CAD,Dep 8656 - 2026-01-19 - Federal Retirees 2025 campaign - SCRM env#12379,0,1,Dep 8656 - 2026-01-19 - Federal Retirees 2025 campaign - SCRM env#12379,10546.2,Debit,161,Community Investment:Donor directed giving - net:Donor Directed Giving,1,General operating fund
+8534,2646,2026-01-19,CAD,Dep 8656 - 2026-01-19 - Federal Retirees 2025 campaign - SCRM env#12379,0,2,Dep 8656 - 2026-01-19 - Federal Retirees 2025 campaign - SCRM env#12379,27711.84,Credit,130,Funds transferred from other United Way organizations:Funds Transferred from Other UWs,1,General operating fund
+8534,2646,2026-01-19,CAD,Dep 8656 - 2026-01-19 - Federal Retirees 2025 campaign - SCRM env#12379,0,3,Dep 8656 - 2026-01-19 - Federal Retirees 2025 campaign - SCRM env#12379,765.0,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+9073,2689,2026-02-28,CAD,"Recognize Deferred Revenue relating to Survivor's Circle as of February 28, 2026",0,0,"Recognize Deferred Revenue relating to Survivor's Circle as of February 28, 2026",1100.0,Debit,124,Deferred revenue:Deferred Revenue - general,1,General operating fund
+9073,2689,2026-02-28,CAD,"Recognize Deferred Revenue relating to Survivor's Circle as of February 28, 2026",0,1,"Recognize Deferred Revenue relating to Survivor's Circle as of February 28, 2026",1100.0,Credit,152,Other income:Residential School Survivors Circle,1,General operating fund
+8815,2673,2026-01-31,CAD,"Recognize Deferred Revenue relating to Survivor's Circle as of January 31, 2026",0,0,"Recognize Deferred Revenue relating to Survivor's Circle as of January 31, 2026",21.2,Debit,124,Deferred revenue:Deferred Revenue - general,1,General operating fund
+8815,2673,2026-01-31,CAD,"Recognize Deferred Revenue relating to Survivor's Circle as of January 31, 2026",0,1,"Recognize Deferred Revenue relating to Survivor's Circle as of January 31, 2026",21.2,Credit,152,Other income:Residential School Survivors Circle,1,General operating fund
+9103,,2026-02-01,CAD,,0,0,Interest from Float,10.81,Debit,1150040000,Cash and cash equivalents:Float Financial,,
+9103,,2026-02-01,CAD,,0,1,Interest,10.81,Credit,150,Interest income:Interest Revenue,,
+9072,2688,2026-02-28,CAD,Accrued interest from Investments - February 2026,0,0,Accrued interest from Investments - February 2026,1096.23,Debit,102,Other current receivables:Interest Accrued,1,General operating fund
+9072,2688,2026-02-28,CAD,Accrued interest from Investments - February 2026,0,1,Accrued interest from Investments - February 2026,1096.23,Credit,150,Interest income:Interest Revenue,1,General operating fund
+8800,2671,2026-01-31,CAD,Accrued interest from Investments - January 2026,0,0,Accrued interest from Investments - January 2026,1213.68,Debit,102,Other current receivables:Interest Accrued,1,General operating fund
+8800,2671,2026-01-31,CAD,Accrued interest from Investments - January 2026,0,1,Accrued interest from Investments - January 2026,1213.68,Credit,150,Interest income:Interest Revenue,1,General operating fund
+8914,2683,2026-02-27,CAD,Dep 8675 2026-02-27 SCRM Env# 13431 SaskEnergy,0,0,Dep 8675 2026-02-27 SCRM Env# 13431 SaskEnergy,1681.66,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8914,2683,2026-02-27,CAD,Dep 8675 2026-02-27 SCRM Env# 13431 SaskEnergy,0,1,Dep 8675 2026-02-27 SCRM Env# 13431 SaskEnergy,1640.46,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8914,2683,2026-02-27,CAD,Dep 8675 2026-02-27 SCRM Env# 13431 SaskEnergy,0,2,Dep 8675 2026-02-27 SCRM Env# 13431 SaskEnergy,41.2,Credit,130,Funds transferred from other United Way organizations:Funds Transferred from Other UWs,1,General operating fund
+9078,2694,2026-02-28,CAD,"Revenue Accrual - @work workplace campaign credit card donations and pledges receivable payments as of Feb 28, 2026",0,0,"Revenue Accrual - @work workplace campaign credit card donations and pledges receivable payments as of Feb 28, 2026",13152.84,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+9078,2694,2026-02-28,CAD,"Revenue Accrual - @work workplace campaign credit card donations and pledges receivable payments as of Feb 28, 2026",0,1,"Revenue Accrual - @work workplace campaign credit card donations and pledges receivable payments as of Feb 28, 2026",947.84,Credit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+9078,2694,2026-02-28,CAD,"Revenue Accrual - @work workplace campaign credit card donations and pledges receivable payments as of Feb 28, 2026",0,2,"Revenue Accrual - @work workplace campaign credit card donations and pledges receivable payments as of Feb 28, 2026",12205.0,Credit,132,Contributions and pledges:Campaign Cash,1,General operating fund
+8821,2676,2026-02-12,CAD,Dep 8668 2026-02-12 - SCRM Env#12993 Corteva,0,0,Dep 8668 2026-02-12 - SCRM Env#12993 Corteva,1237.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+8821,2676,2026-02-12,CAD,Dep 8668 2026-02-12 - SCRM Env#12993 Corteva,0,1,Dep 8668 2026-02-12 - SCRM Env#12993 Corteva,5238.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8821,2676,2026-02-12,CAD,Dep 8668 2026-02-12 - SCRM Env#12993 Corteva,0,2,Dep 8668 2026-02-12 - SCRM Env#12993 Corteva,5063.0,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8821,2676,2026-02-12,CAD,Dep 8668 2026-02-12 - SCRM Env#12993 Corteva,0,3,Dep 8668 2026-02-12 - SCRM Env#12993 Corteva,1237.0,Credit,132,Contributions and pledges:Campaign Cash,1,General operating fund
+8821,2676,2026-02-12,CAD,Dep 8668 2026-02-12 - SCRM Env#12993 Corteva,0,4,Dep 8668 2026-02-12 - SCRM Env#12993 Corteva,175.0,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+8820,2675,2026-02-12,CAD,Dep 8667 - 2026-02-12 - SCRM Env#12982 GSCS,0,0,Dep 8667 - 2026-02-12 - SCRM Env#12982 GSCS,270.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+8820,2675,2026-02-12,CAD,Dep 8667 - 2026-02-12 - SCRM Env#12982 GSCS,0,1,Dep 8667 - 2026-02-12 - SCRM Env#12982 GSCS,3240.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8820,2675,2026-02-12,CAD,Dep 8667 - 2026-02-12 - SCRM Env#12982 GSCS,0,2,Dep 8667 - 2026-02-12 - SCRM Env#12982 GSCS,1065.0,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8820,2675,2026-02-12,CAD,Dep 8667 - 2026-02-12 - SCRM Env#12982 GSCS,0,3,Dep 8667 - 2026-02-12 - SCRM Env#12982 GSCS,270.0,Credit,132,Contributions and pledges:Campaign Cash,1,General operating fund
+8820,2675,2026-02-12,CAD,Dep 8667 - 2026-02-12 - SCRM Env#12982 GSCS,0,4,Dep 8667 - 2026-02-12 - SCRM Env#12982 GSCS,2175.0,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+8906,2681,2026-02-25,CAD,Dep 8672 - 2026-02-25 - SCRM Env#13386,0,0,Dep 8672 - 2026-02-25 - SCRM Env#13386,7999.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8906,2681,2026-02-25,CAD,Dep 8672 - 2026-02-25 - SCRM Env#13386,0,1,Dep 8672 - 2026-02-25 - SCRM Env#13386,7299.0,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8906,2681,2026-02-25,CAD,Dep 8672 - 2026-02-25 - SCRM Env#13386,0,2,Dep 8672 - 2026-02-25 - SCRM Env#13386,700.0,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+8904,2680,2026-02-25,CAD,Dep 8671 - 2026-02-25 SCRM Env# 13382,0,0,Dep 8671 - 2026-02-25 SCRM Env# 13382,1405.04,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8904,2680,2026-02-25,CAD,Dep 8671 - 2026-02-25 SCRM Env# 13382,0,1,Dep 8671 - 2026-02-25 SCRM Env# 13382,1405.04,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8822,2677,2025-12-31,CAD,Dep 8648A - 2025-12-31 - SCRM Env#13176,0,0,Dep 8648A - 2025-12-31 - SCRM Env#13176,3750.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8822,2677,2025-12-31,CAD,Dep 8648A - 2025-12-31 - SCRM Env#13176,0,1,Dep 8648A - 2025-12-31 - SCRM Env#13176,3750.0,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8747,2670,2026-01-31,CAD,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of January 31, 2026",0,0,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of January 31, 2026",1680.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,,
+8747,2670,2026-01-31,CAD,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of January 31, 2026",0,1,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of January 31, 2026",1680.0,Credit,129,Contributions and pledges:Campaign Pledges,,
+8747,2670,2026-01-31,CAD,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of January 31, 2026",0,2,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of January 31, 2026",1428.34,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8747,2670,2026-01-31,CAD,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of January 31, 2026",0,3,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of January 31, 2026",1428.34,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8729,2652,2025-12-31,CAD,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Dec 31, 2025",0,0,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Dec 31, 2025",20308.48,Debit,93,Pledges receivable:Current Year Pledges Receivable,,
+8729,2652,2025-12-31,CAD,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Dec 31, 2025",0,1,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Dec 31, 2025",7980.04,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8729,2652,2025-12-31,CAD,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Dec 31, 2025",0,2,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Dec 31, 2025",28288.52,Credit,129,Contributions and pledges:Campaign Pledges,,
+8719,2650,2026-01-27,CAD,Dep 8662 2026-01-27 SCRM Env#12572,0,0,Dep 8662 2026-01-27 SCRM Env#12572,4872.72,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8719,2650,2026-01-27,CAD,Dep 8662 2026-01-27 SCRM Env#12572,0,1,Dep 8662 2026-01-27 SCRM Env#12572,4872.72,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8716,2649,2026-01-22,CAD,Dep 8658 2026-01-22 SCRM Env#12467,0,0,Dep 8658 2026-01-22 SCRM Env#12467,2100.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8716,2649,2026-01-22,CAD,Dep 8658 2026-01-22 SCRM Env#12467,0,1,Dep 8658 2026-01-22 SCRM Env#12467,2100.0,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8533,2645,2026-01-14,CAD,Dep 8655 - 2026-01-14,0,0,Dep 8655 - 2026-01-14,88967.52,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8533,2645,2026-01-14,CAD,Dep 8655 - 2026-01-14,0,1,Dep 8655 - 2026-01-14,84527.52,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8533,2645,2026-01-14,CAD,Dep 8655 - 2026-01-14,0,2,Dep 8655 - 2026-01-14 - Deferred Revenue-Donor Directed Giving 2025,3660.0,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+8533,2645,2026-01-14,CAD,Dep 8655 - 2026-01-14,0,3,Dep 8655 - 2026-01-14 - Deferred Revenue-Period Promise,780.0,Credit,124,Deferred revenue:Deferred Revenue - general,1,General operating fund
+8531,2644,2026-01-13,CAD,Dep 8654 01/13/2026 - SCRM Env# 12338,0,0,Dep 8654 01/13/2026 - SCRM Env# 12338,18703.04,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8531,2644,2026-01-13,CAD,Dep 8654 01/13/2026 - SCRM Env# 12338,0,1,Dep 8654 01/13/2026 - SCRM Env# 12338,18703.04,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+9079,2695,2026-02-28,CAD,"Accrual of revenue for IRCC based on expenses incurred for the operation of the IRCC programming.  This is based on QBO expenses, and may be adjusted further once reconciliations are made and the final two claims of the fiscal 2025-26 year are made.  This is also contingent on any reporting adjustments by IRCC.",0,0,,61121.0,Debit,124,Deferred revenue:Deferred Revenue - general,,
+9079,2695,2026-02-28,CAD,"Accrual of revenue for IRCC based on expenses incurred for the operation of the IRCC programming.  This is based on QBO expenses, and may be adjusted further once reconciliations are made and the final two claims of the fiscal 2025-26 year are made.  This is also contingent on any reporting adjustments by IRCC.",0,1,,61121.0,Credit,1150040014,Other income:IRCC Government Funding,,
+9077,2693,2026-02-24,CAD,Pre-Authorized Credit Cards - 2026-02-24,0,0,Pre-Authorized Credit Cards - 2026-02-24,150.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+9077,2693,2026-02-24,CAD,Pre-Authorized Credit Cards - 2026-02-24,0,1,Pre-Authorized Credit Cards - 2026-02-24,150.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+9076,2692,2026-02-17,CAD,Pre-Authorized Credit Cards - 2026-02-17,0,0,Pre-Authorized Credit Cards - 2026-02-17,120.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+9076,2692,2026-02-17,CAD,Pre-Authorized Credit Cards - 2026-02-17,0,1,Pre-Authorized Credit Cards - 2026-02-17,120.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+9075,2691,2026-02-15,CAD,Pre-Authorized Credit Cards - 2026-02-15,0,0,Pre-Authorized Credit Cards - 2026-02-15,6657.64,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+9075,2691,2026-02-15,CAD,Pre-Authorized Credit Cards - 2026-02-15,0,1,Pre-Authorized Credit Cards - 2026-02-15,30.0,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,1,General operating fund
+9075,2691,2026-02-15,CAD,Pre-Authorized Credit Cards - 2026-02-15,0,2,Pre-Authorized Credit Cards - 2026-02-15,6627.64,Credit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+9074,2690,2026-02-01,CAD,Pre-Authorized Credit Cards - 2026-02-01,0,0,Pre-Authorized Credit Cards - 2026-02-01,162.5,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+9074,2690,2026-02-01,CAD,Pre-Authorized Credit Cards - 2026-02-01,0,1,Pre-Authorized Credit Cards - 2026-02-01,162.5,Credit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+9071,2687,2026-02-28,CAD,"Amortization - February 28, 2026",0,0,"Amortization - February 28, 2026",2327.26,Debit,213,Operations:Amortization expense:Amortization,1,General operating fund
+9071,2687,2026-02-28,CAD,"Amortization - February 28, 2026",0,1,"Amortization - February 28, 2026",247.51,Credit,109,Capital assets:Accum Dep - Office Equipment,1,General operating fund
+9071,2687,2026-02-28,CAD,"Amortization - February 28, 2026",0,2,"Amortization - February 28, 2026",517.25,Credit,110,Capital assets:Accum Dep - Computer Hardware,1,General operating fund
+9071,2687,2026-02-28,CAD,"Amortization - February 28, 2026",0,3,"Amortization - February 28, 2026",1562.5,Credit,111,Capital assets:Accum Dep - Computer Software,1,General operating fund
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,0,Dep 8610 2025-06-30,9925.37,Debit,85,Cash and cash equivalents:TD Canada Trust - Operating,,
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,1,Dep 8610 2025-06-30,1633.5,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,2,Dep 8610 2025-06-30,250.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,,
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,3,Dep 8610 2025-06-30,3017.34,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,4,Dep 8610 2025-06-30,46.15,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,5,Dep 8610 2025-06-30,250.0,Credit,129,Contributions and pledges:Campaign Pledges,,
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,6,Dep 8610 2025-06-30,2450.0,Credit,132,Contributions and pledges:Campaign Cash,,
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,10,Dep 8610 2025-06-30 - UW Regina,245.38,Credit,130,Funds transferred from other United Way organizations:Funds Transferred from Other UWs,,
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,7,Dep 8610 2025-06-30,250.0,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,,
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,8,Dep 8610 2025-06-30 - Deferred Rev-Period Promise,50.0,Credit,124,Deferred revenue:Deferred Revenue - general,,
+6461,2498,2025-06-30,CAD,Dep 8610 2025-06-30,0,9,Dep 8610 2025-06-30 - Reimburse Allocation to Agencies Payable-Prairie Harm Reduction,5500.0,Credit,119,Allocations to funded agencies:Allocations to Agencies,,
+8837,2678,2025-09-24,CAD,Pre-Authorized Credit Cards-Andar - 2025-09-24,0,0,Pre-Authorized Credit Cards-Andar - 2025-09-24,150.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+8837,2678,2025-09-24,CAD,Pre-Authorized Credit Cards-Andar - 2025-09-24,0,1,Pre-Authorized Credit Cards-Andar - 2025-09-24,150.0,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,1,General operating fund
+8814,2672,2026-01-31,CAD,"Amortization - January 31, 2026",0,0,"Amortization - January 31, 2026",2327.26,Debit,213,Operations:Amortization expense:Amortization,1,General operating fund
+8814,2672,2026-01-31,CAD,"Amortization - January 31, 2026",0,1,"Amortization - January 31, 2026",247.51,Credit,109,Capital assets:Accum Dep - Office Equipment,1,General operating fund
+8814,2672,2026-01-31,CAD,"Amortization - January 31, 2026",0,2,"Amortization - January 31, 2026",517.25,Credit,110,Capital assets:Accum Dep - Computer Hardware,1,General operating fund
+8814,2672,2026-01-31,CAD,"Amortization - January 31, 2026",0,3,"Amortization - January 31, 2026",1562.5,Credit,111,Capital assets:Accum Dep - Computer Software,1,General operating fund
+8746,2669,2026-01-24,CAD,Pre-Authorized Credit Cards - 2026-01-24,0,0,Pre-Authorized Credit Cards - 2026-01-24,150.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8746,2669,2026-01-24,CAD,Pre-Authorized Credit Cards - 2026-01-24,0,1,Pre-Authorized Credit Cards - 2026-01-24,150.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8745,2668,2026-01-22,CAD,Pre-Authorized Credit Cards - 2026-01-22,0,0,Pre-Authorized Credit Cards - 2026-01-22,100.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8745,2668,2026-01-22,CAD,Pre-Authorized Credit Cards - 2026-01-22,0,1,Pre-Authorized Credit Cards - 2026-01-22,100.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8744,2667,2026-01-22,CAD,Pre-Authorized Credit Cards - 2026-01-22,0,0,Pre-Authorized Credit Cards - 2026-01-22,100.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8744,2667,2026-01-22,CAD,Pre-Authorized Credit Cards - 2026-01-22,0,1,Pre-Authorized Credit Cards - 2026-01-22,100.0,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8743,2666,2026-01-15,CAD,Pre-Authorized Credit Cards - 2026-01-15,0,0,Pre-Authorized Credit Cards - 2026-01-15,6927.64,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8743,2666,2026-01-15,CAD,Pre-Authorized Credit Cards - 2026-01-15,0,1,Pre-Authorized Credit Cards - 2026-01-15,30.0,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8743,2666,2026-01-15,CAD,Pre-Authorized Credit Cards - 2026-01-15,0,2,Pre-Authorized Credit Cards - 2026-01-15,6897.64,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8742,2665,2026-01-01,CAD,Pre-Authorized Credit Cards - 2026-01-01,0,0,Pre-Authorized Credit Cards - 2026-01-01,162.5,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8742,2665,2026-01-01,CAD,Pre-Authorized Credit Cards - 2026-01-01,0,1,Pre-Authorized Credit Cards - 2026-01-01,162.5,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8741,2664,2025-12-31,CAD,Pre-Authorized Credit Cards - 2025-12-31,0,0,Pre-Authorized Credit Cards - 2025-12-31,25.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8741,2664,2025-12-31,CAD,Pre-Authorized Credit Cards - 2025-12-31,0,1,Pre-Authorized Credit Cards - 2025-12-31,25.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8740,2663,2025-12-15,CAD,Pre-Authorized Credit Cards - 2025-12-15,0,0,Pre-Authorized Credit Cards - 2025-12-15,250.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8740,2663,2025-12-15,CAD,Pre-Authorized Credit Cards - 2025-12-15,0,1,Pre-Authorized Credit Cards - 2025-12-15,250.0,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8739,2662,2025-12-31,CAD,Pre-Authorized Credit Cards - 2025-12-31,0,0,Pre-Authorized Credit Cards - 2025-12-31,150.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8739,2662,2025-12-31,CAD,Pre-Authorized Credit Cards - 2025-12-31,0,1,Pre-Authorized Credit Cards - 2025-12-31,150.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8738,2661,2025-12-15,CAD,Pre-Authorized Credit Cards - 2025-12-15,0,0,Pre-Authorized Credit Cards - 2025-12-15,30.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8738,2661,2025-12-15,CAD,Pre-Authorized Credit Cards - 2025-12-15,0,1,Pre-Authorized Credit Cards - 2025-12-15,30.0,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8737,2660,2025-12-15,CAD,Pre-Authorized Credit Cards - 2025-12-15,0,0,Pre-Authorized Credit Cards - 2025-12-15,7993.06,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8737,2660,2025-12-15,CAD,Pre-Authorized Credit Cards - 2025-12-15,0,1,Pre-Authorized Credit Cards - 2025-12-15,7568.06,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8737,2660,2025-12-15,CAD,Pre-Authorized Credit Cards - 2025-12-15,0,2,Pre-Authorized Credit Cards - 2025-12-15,425.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8736,2659,2025-12-01,CAD,Pre-Authorized Credit Cards - 2025-12-01,0,0,Pre-Authorized Credit Cards - 2025-12-01,162.5,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8736,2659,2025-12-01,CAD,Pre-Authorized Credit Cards - 2025-12-01,0,1,Pre-Authorized Credit Cards - 2025-12-01,162.5,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8735,2658,2025-11-24,CAD,Pre-Authorized Credit Cards - 2025-11-24,0,0,Pre-Authorized Credit Cards - 2025-11-24,50.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8735,2658,2025-11-24,CAD,Pre-Authorized Credit Cards - 2025-11-24,0,1,Pre-Authorized Credit Cards - 2025-11-24,50.0,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8734,2657,2025-11-24,CAD,Pre-Authorized Credit Cards - 2025-11-24,0,0,Pre-Authorized Credit Cards - 2025-11-24,150.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8734,2657,2025-11-24,CAD,Pre-Authorized Credit Cards - 2025-11-24,0,1,Pre-Authorized Credit Cards - 2025-11-24,150.0,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8733,2656,2025-11-15,CAD,Pre-Authorized Credit Cards - 2025-11-15,0,0,Pre-Authorized Credit Cards - 2025-11-15,30.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8733,2656,2025-11-15,CAD,Pre-Authorized Credit Cards - 2025-11-15,0,1,Pre-Authorized Credit Cards - 2025-11-15,30.0,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8732,2655,2025-11-15,CAD,Pre-Authorized Credit Cards - 2025-11-15,0,0,Pre-Authorized Credit Cards - 2025-11-15,8368.06,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8732,2655,2025-11-15,CAD,Pre-Authorized Credit Cards - 2025-11-15,0,1,Pre-Authorized Credit Cards - 2025-11-15,7943.06,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8732,2655,2025-11-15,CAD,Pre-Authorized Credit Cards - 2025-11-15,0,2,Pre-Authorized Credit Cards - 2025-11-15,425.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8731,2654,2025-11-01,CAD,Pre-Authorized Credit Cards - 2025-11-01,0,0,Pre-Authorized Credit Cards - 2025-11-01,162.5,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8731,2654,2025-11-01,CAD,Pre-Authorized Credit Cards - 2025-11-01,0,1,Pre-Authorized Credit Cards - 2025-11-01,162.5,Credit,92,Pledges receivable:Prior Year 1 Pledges Receivable,,
+8730,2653,2025-12-31,CAD,"@work workplace credit card pledges receivable payments as of Dec 31, 2025",0,0,"@work workplace credit card pledges receivable payments as of Dec 31, 2025",22950.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8730,2653,2025-12-31,CAD,"@work workplace credit card pledges receivable payments as of Dec 31, 2025",0,1,"@work workplace credit card pledges receivable payments as of Dec 31, 2025",22950.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8727,2631R,2025-11-30,CAD,"Reverse of JE 2631 - To Accrue for pledges received year-to-date that have not yet been able to be entered individually in Salesforce CRM.  The reporting from the perpetual monthly credit card/pre-authorized chequing donations is a conservative accrual, and the GCWCC is up-to-date.  This is to provide more accurate November 2025 YTD Reporting.",0,0,"Accrual - estimating the year-to-date perpetual monthly credit card/pre-authorized chequing donations (Starting Jan, 2026)",100000.0,Debit,129,Contributions and pledges:Campaign Pledges,,
+8727,2631R,2025-11-30,CAD,"Reverse of JE 2631 - To Accrue for pledges received year-to-date that have not yet been able to be entered individually in Salesforce CRM.  The reporting from the perpetual monthly credit card/pre-authorized chequing donations is a conservative accrual, and the GCWCC is up-to-date.  This is to provide more accurate November 2025 YTD Reporting.",0,1,Accrual - Government of Canada Workplace Charitable Campaign (GCWCC) Year-to-Date donations per United Way East Ontario reporting,133000.0,Debit,129,Contributions and pledges:Campaign Pledges,,
+8727,2631R,2025-11-30,CAD,"Reverse of JE 2631 - To Accrue for pledges received year-to-date that have not yet been able to be entered individually in Salesforce CRM.  The reporting from the perpetual monthly credit card/pre-authorized chequing donations is a conservative accrual, and the GCWCC is up-to-date.  This is to provide more accurate November 2025 YTD Reporting.",0,2,"Accrual - estimating the year-to-date perpetual monthly credit card/pre-authorized chequing donations (Starting Jan, 2026)",100000.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8727,2631R,2025-11-30,CAD,"Reverse of JE 2631 - To Accrue for pledges received year-to-date that have not yet been able to be entered individually in Salesforce CRM.  The reporting from the perpetual monthly credit card/pre-authorized chequing donations is a conservative accrual, and the GCWCC is up-to-date.  This is to provide more accurate November 2025 YTD Reporting.",0,3,Accrual - Government of Canada Workplace Charitable Campaign (GCWCC) Year-to-Date donations per United Way East Ontario reporting,133000.0,Credit,93,Pledges receivable:Current Year Pledges Receivable,,
+8469,2636,2025-12-31,CAD,"Recognize Deferred Revenue relating to Survivor's Circle as of December 31, 2025",0,0,"Recognize Deferred Revenue relating to Survivor's Circle as of December 31, 2025",12369.82,Debit,124,Deferred revenue:Deferred Revenue - general,1,General operating fund
+8469,2636,2025-12-31,CAD,"Recognize Deferred Revenue relating to Survivor's Circle as of December 31, 2025",0,1,"Recognize Deferred Revenue relating to Survivor's Circle as of December 31, 2025",12369.82,Credit,152,Other income:Residential School Survivors Circle,1,General operating fund
+7983,2623,2025-11-30,CAD,"Recognize Deferred Revenue relating to Survivor's Circle as of November 30, 2025",0,0,"Recognize Deferred Revenue relating to Survivor's Circle as of November 30, 2025",10.48,Debit,124,Deferred revenue:Deferred Revenue - general,1,General operating fund
+7983,2623,2025-11-30,CAD,"Recognize Deferred Revenue relating to Survivor's Circle as of November 30, 2025",0,1,"Recognize Deferred Revenue relating to Survivor's Circle as of November 30, 2025",10.48,Credit,152,Other income:Residential School Survivors Circle,1,General operating fund
+8518,2641,2025-12-31,CAD,Accrued interest from Investments - December 2025,0,0,Accrued interest from Investments - December 2025,1213.68,Debit,102,Other current receivables:Interest Accrued,1,General operating fund
+8518,2641,2025-12-31,CAD,Accrued interest from Investments - December 2025,0,1,Accrued interest from Investments - December 2025,1213.68,Credit,150,Interest income:Interest Revenue,1,General operating fund
+7980,2622,2025-11-30,CAD,Accrued Interest from Investments - November 2025,0,0,Accrued Interest from Investments - November 2025,1174.54,Debit,102,Other current receivables:Interest Accrued,1,General operating fund
+7980,2622,2025-11-30,CAD,Accrued Interest from Investments - November 2025,0,1,Accrued Interest from Investments - November 2025,1174.54,Credit,150,Interest income:Interest Revenue,1,General operating fund
+7950,,2025-10-01,CAD,Receipt url: https://api.floatfinancial.com/api/v1/receipts/download/?receipt_id=8df654cf-aaaa-4394-af9f-0b4b6bac94b5&token=cheSYfib042rQ94Z-T_7s2V2RNkxPscS-gwhFAzLe4c,0,0,Interest from Float,13.41,Debit,1150040000,Cash and cash equivalents:Float Financial,,
+7950,,2025-10-01,CAD,Receipt url: https://api.floatfinancial.com/api/v1/receipts/download/?receipt_id=8df654cf-aaaa-4394-af9f-0b4b6bac94b5&token=cheSYfib042rQ94Z-T_7s2V2RNkxPscS-gwhFAzLe4c,0,1,Interest earned on Float Account Balance,13.41,Credit,150,Interest income:Interest Revenue,,
+7486,2576,2025-10-31,CAD,Accrued interest from Investments,0,0,Accrued interest from Investments,1213.68,Debit,102,Other current receivables:Interest Accrued,1,General operating fund
+7486,2576,2025-10-31,CAD,Accrued interest from Investments,0,1,Accrued interest from Investments,1213.68,Credit,150,Interest income:Interest Revenue,1,General operating fund
+7485,2575,2025-09-30,CAD,Accrued interest from Investments,0,0,Accrued interest from Investments,1174.54,Debit,102,Other current receivables:Interest Accrued,1,General operating fund
+7485,2575,2025-09-30,CAD,Accrued interest from Investments,0,1,Accrued interest from Investments,1174.54,Credit,150,Interest income:Interest Revenue,1,General operating fund
+7904,2612,2025-11-26,CAD,"Nutrien-Head Office 50/50 donations to November 10, 2025",0,0,"Nutrien-Head Office 50/50 donations to November 10, 2025",2598.3,Debit,86,Cash and cash equivalents:TD Canada Trust - Lottery Account,1,General operating fund
+7904,2612,2025-11-26,CAD,"Nutrien-Head Office 50/50 donations to November 10, 2025",0,1,"Nutrien-Head Office 50/50 donations to November 10, 2025",2700.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,1,General operating fund
+7904,2612,2025-11-26,CAD,"Nutrien-Head Office 50/50 donations to November 10, 2025",0,2,"Nutrien-Head Office 50/50 donations to November 10, 2025",101.7,Debit,272,"Operations:Promotion, public relations and special events:50/50 Lotto",1,General operating fund
+7902,2611,2025-11-21,CAD,"UWSA 50/50 donations to November 21, 2025",0,0,"UWSA 50/50 donations to November 21, 2025",170.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+7902,2611,2025-11-21,CAD,"UWSA 50/50 donations to November 21, 2025",0,1,"UWSA 50/50 donations to November 21, 2025",170.0,Credit,144,Special events revenue:Revenue - 50/50 Lotto,,
+7285,2563,2025-10-16,CAD,Dep 8622 - 2025-10-16,0,0,Dep 8622 - 2025-10-16,50.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,1,General operating fund
+7285,2563,2025-10-16,CAD,Dep 8622 - 2025-10-16,0,1,Dep 8622 - 2025-10-16,50.0,Credit,132,Contributions and pledges:Campaign Cash,1,General operating fund
+8178,2633,2025-12-21,CAD,Dep 8637 2025-12-05,0,0,Dep 8637 2025-12-05,37987.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8178,2633,2025-12-21,CAD,Dep 8637 2025-12-05,0,1,Dep 8637 2025-12-05,30687.0,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8178,2633,2025-12-21,CAD,Dep 8637 2025-12-05,0,2,Dep 8637 2025-12-05 - Deferred Rev-Donor Directed Giving 2025,7300.0,Credit,120,Deferred revenue:Def. Rev. Donor Dir. Giving 2025,1,General operating fund
+8126,2632,2025-11-28,CAD,Dep 8633A 2025-11-28,0,0,Dep 8633A 2025-11-28,871.68,Debit,93,Pledges receivable:Current Year Pledges Receivable,1,General operating fund
+8126,2632,2025-11-28,CAD,Dep 8633A 2025-11-28,0,1,Dep 8633A 2025-11-28,871.68,Credit,129,Contributions and pledges:Campaign Pledges,1,General operating fund
+8119,2631,2025-11-30,CAD,"To Accrue for pledges received year-to-date that have not yet been able to be entered individually in Salesforce CRM.  The reporting from the perpetual monthly credit card/pre-authorized chequing donations is a conservative accrual, and the GCWCC is up-to-date.  This is to provide more accurate November 2025 YTD Reporting.",0,0,"Accrual - estimating the year-to-date perpetual monthly credit card/pre-authorized chequing donations (Starting Jan, 2026)",100000.0,Credit,129,Contributions and pledges:Campaign Pledges,,
+8119,2631,2025-11-30,CAD,"To Accrue for pledges received year-to-date that have not yet been able to be entered individually in Salesforce CRM.  The reporting from the perpetual monthly credit card/pre-authorized chequing donations is a conservative accrual, and the GCWCC is up-to-date.  This is to provide more accurate November 2025 YTD Reporting.",0,1,Accrual - Government of Canada Workplace Charitable Campaign (GCWCC) Year-to-Date donations per United Way East Ontario reporting,133000.0,Credit,129,Contributions and pledges:Campaign Pledges,,
+8119,2631,2025-11-30,CAD,"To Accrue for pledges received year-to-date that have not yet been able to be entered individually in Salesforce CRM.  The reporting from the perpetual monthly credit card/pre-authorized chequing donations is a conservative accrual, and the GCWCC is up-to-date.  This is to provide more accurate November 2025 YTD Reporting.",0,2,"Accrual - estimating the year-to-date perpetual monthly credit card/pre-authorized chequing donations (Starting Jan, 2026)",100000.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,,
+8119,2631,2025-11-30,CAD,"To Accrue for pledges received year-to-date that have not yet been able to be entered individually in Salesforce CRM.  The reporting from the perpetual monthly credit card/pre-authorized chequing donations is a conservative accrual, and the GCWCC is up-to-date.  This is to provide more accurate November 2025 YTD Reporting.",0,3,Accrual - Government of Canada Workplace Charitable Campaign (GCWCC) Year-to-Date donations per United Way East Ontario reporting,133000.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,,
+8118,2630,2025-11-30,CAD,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable - November 2025,0,0,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Nov 30, 2025",24617.78,Debit,93,Pledges receivable:Current Year Pledges Receivable,,
+8118,2630,2025-11-30,CAD,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable - November 2025,0,1,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Nov 30, 2025",10001.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+8118,2630,2025-11-30,CAD,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable - November 2025,0,2,"Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Nov 30, 2025",34618.78,Credit,129,Contributions and pledges:Campaign Pledges,,
+7548,2607,2025-10-31,CAD,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Oct - See @work campaign reporting,0,0,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Oct 31,96865.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,,
+7548,2607,2025-10-31,CAD,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Oct - See @work campaign reporting,0,2,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Oct 31,28876.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+7548,2607,2025-10-31,CAD,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Oct - See @work campaign reporting,0,1,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Oct 31,125741.0,Credit,129,Contributions and pledges:Campaign Pledges,,
+7547,2606,2025-09-30,CAD,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Sept - per @work reporting,0,0,@Work Pledges Receivable Accrual for Sept 30 Reporting,22988.0,Debit,93,Pledges receivable:Current Year Pledges Receivable,,
+7547,2606,2025-09-30,CAD,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Sept - per @work reporting,0,2,@Work Pledges Receivable Accrual for Sept 30 Reporting,24608.0,Debit,100,Other current receivables:Accounts Receivable - Credit Card,,
+7547,2606,2025-09-30,CAD,Revenue Accrual - @work workplace campaign pledges and credit card donations receivable as of Sept - per @work reporting,0,1,@Work Pledges Receivable Accrual for Sept 30 Reporting,47596.0,Credit,129,Contributions and pledges:Campaign Pledges,,
+7484,2574,2025-08-31,CAD,Accrued interest from Investments,0,0,Accrued interest from Investments,1213.68,Debit,102,Other current receivables:Interest Accrued,1,General operating fund
+7484,2574,2025-08-31,CAD,Accrued interest from Investments,0,1,Accrued interest from Investments,1213.68,Credit,150,Interest income:Interest Revenue,1,General operating fund
+7984,2624,2025-05-31,CAD,"Recognize Deferred Revenue relating to Tampon Tuesday expenses as of May 31, 2025",0,0,"Recognize Deferred Revenue relating to Tampon Tuesday expenses as of May 31, 2025",1039.4,Debit,124,Deferred revenue:Deferred Revenue - general,1,General operating fund
+7984,2624,2025-05-31,CAD,"Recognize Deferred Revenue relating to Tampon Tuesday expenses as of May 31, 2025",0,1,"Recognize Deferred Revenue relating to Tampon Tuesday expenses as of May 31, 2025",1039.4,Credit,143,Special events revenue:Revenue - Period Promise,1,General operating fund
+8520,2643,2025-12-31,CAD,Amortization - December 2025,0,0,Amortization - December 2025,2327.26,Debit,213,Operations:Amortization expense:Amortization,1,General operating fund
+8520,2643,2025-12-31,CAD,Amortization - December 2025,0,1,Amortization - December 2025,247.51,Credit,109,Capital assets:Accum Dep - Office Equipment,1,General operating fund
+8520,2643,2025-12-31,CAD,Amortization - December 2025,0,2,Amortization - December 2025,517.25,Credit,110,Capital assets:Accum Dep - Computer Hardware,1,General operating fund
+8520,2643,2025-12-31,CAD,Amortization - December 2025,0,3,Amortization - December 2025,1562.5,Credit,111,Capital assets:Accum Dep - Computer Software,1,General operating fund
+8519,2642,2025-12-31,CAD,Prepaid Expense - December 2025,0,0,TD Visa-BlackSun - Domain Renewal (unitedwaysaskatoon.ca) - 5 years (2020/12/19 - 2025/12/18),14.46,Debit,192,Operations:Professional fees:Computer Support,1,General operating fund
+8519,2642,2025-12-31,CAD,Prepaid Expense - December 2025,0,1,UW Centraide Canada - July-December 2025 Membership Dues,2665.15,Debit,257,Operations:United Way of Canada dues:United Way Centraide,1,General operating fund
+8519,2642,2025-12-31,CAD,Prepaid Expense - December 2025,0,2,Prepaid Expense - December 2025,2679.61,Credit,104,Prepaid Expense,1,General operating fund
+8473,2639,2025-09-15,CAD,"This was the second attempt to pay GSCS Invoice S107618.  The Float Financial payment platform sent instructions to TD to make payment but the payment platform flagged as possible payroll payment which was not permissible.  This entry is for when the funds were paid from the TD bank account on September 15.  The subsequent deposit was on September 19, 2025.  See attached original invoice.
+
+Relevant Journal No.'s
+
+2640
+2639
+2638
+2637",0,0,Failed payment to Greater Saskatoon Catholic Schools (,72702.27,Credit,85,Cash and cash equivalents:TD Canada Trust - Operating,,
+8473,2639,2025-09-15,CAD,"This was the second attempt to pay GSCS Invoice S107618.  The Float Financial payment platform sent instructions to TD to make payment but the payment platform flagged as possible payroll payment which was not permissible.  This entry is for when the funds were paid from the TD bank account on September 15.  The subsequent deposit was on September 19, 2025.  See attached original invoice.
+
+Relevant Journal No.'s
+
+2640
+2639
+2638
+2637",0,1,Failed payment to Greater Saskatoon Catholic Schools (,72702.27,Debit,236,Community Investment:Summer Success Literacy Program:Summer Success,,
+8472,2638,2025-09-12,CAD,"Payment instructions were sent from Float Financial to pay GSCS Invoice S107618.  The platform flagged this transaction as a possible payroll payment which was not permissible.  Funds were subsequently This transaction represents the funds being deposited back into TD bank account on September 12.  See attached original invoice.
+
+Relevant Journal No.'s
+
+2640
+2639
+2638
+2637",0,0,Failed payment to Greater Saskatoon Catholic Schools (,72702.27,Debit,85,Cash and cash equivalents:TD Canada Trust - Operating,,
+8472,2638,2025-09-12,CAD,"Payment instructions were sent from Float Financial to pay GSCS Invoice S107618.  The platform flagged this transaction as a possible payroll payment which was not permissible.  Funds were subsequently This transaction represents the funds being deposited back into TD bank account on September 12.  See attached original invoice.
+
+Relevant Journal No.'s
+
+2640
+2639
+2638
+2637",0,1,Failed payment to Greater Saskatoon Catholic Schools (,72702.27,Credit,236,Community Investment:Summer Success Literacy Program:Summer Success,,
+8471,2637,2025-09-08,CAD,"Payment instructions from Float Financial to pay GSCS Invoice S107618.  Payment platform sent instructions to TD to make payment but payment platform flagged as possible payroll payment which was not permissible.  Funds were subsequently Deposited back into TD bank account on September 12.  See attached original invoice.
+
+Relevant Journal No.'s
+
+2640
+2639
+2638
+2637",0,1,Failed payment to Greater Saskatoon Catholic Schools (,72702.27,Debit,236,Community Investment:Summer Success Literacy Program:Summer Success,,
+8471,2637,2025-09-08,CAD,"Payment instructions from Float Financial to pay GSCS Invoice S107618.  Payment platform sent instructions to TD to make payment but payment platform flagged as possible payroll payment which was not permissible.  Funds were subsequently Deposited back into TD bank account on September 12.  See attached original invoice.
+
+Relevant Journal No.'s
+
+2640
+2639
+2638
+2637",0,0,Failed payment to Greater Saskatoon Catholic Schools (,72702.27,Credit,85,Cash and cash equivalents:TD Canada Trust - Operating,,
+8474,2640,2025-09-19,CAD,"This was the second attempt to pay GSCS Invoice S107618.  The Float Financial payment platform sent instructions to TD to make payment but the payment platform flagged as possible payroll payment which was not permissible.  This entry is for when the funds were paid back into the TD bank account on September 19 subsequent to the withdrawal from the TD account on September 15, 2025.  See attached original invoice.
+
+Relevant Journal No.'s
+
+2640
+2639
+2638
+2637",0,0,Failed payment to Greater Saskatoon Catholic Schools (,72702.27,Debit,85,Cash and cash equivalents:TD Canada Trust - Operating,,
+8474,2640,2025-09-19,CAD,"This was the second attempt to pay GSCS Invoice S107618.  The Float Financial payment platform sent instructions to TD to make payment but the payment platform flagged as possible payroll payment which was not permissible.  This entry is for when the funds were paid back into the TD bank account on September 19 subsequent to the withdrawal from the TD account on September 15, 2025.  See attached original invoice.
+
+Relevant Journal No.'s
+
+2640
+2639
+2638
+2637",0,1,Failed payment to Greater Saskatoon Catholic Schools (,72702.27,Credit,236,Community Investment:Summer Success Literacy Program:Summer Success,,
+7488,2578,2025-09-30,CAD,"Recognize Deferrred Revenue relating to Survivors Circle as of Sept 30, 2025",0,0,"Recognize Deferrred Revenue relating to Survivors Circle as of Sept 30, 2025",160.24,Debit,124,Deferred revenue:Deferred Revenue - general,1,General operating fund
+7488,2578,2025-09-30,CAD,"Recognize Deferrred Revenue relating to Survivors Circle as of Sept 30, 2025",0,1,"Recognize Deferrred Revenue relating to Survivors Circle as of Sept 30, 2025",160.24,Credit,152,Other income:Residential School Survivors Circle,1,General operating fund
